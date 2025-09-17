@@ -12,6 +12,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "documents", "documents", "{26701705-0659-41FE-B8CB-54FCCE5F62D4}"
 	ProjectSection(SolutionItems) = preProject
 		C:\Users\LPT186\Downloads\Clean + CQRS.pdf = C:\Users\LPT186\Downloads\Clean + CQRS.pdf
+		Clean + CQRS.docx = Clean + CQRS.docx
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanCQRS.Infrastructure", "CleanCQRS.Infrastructure\CleanCQRS.Infrastructure.csproj", "{AF04F483-DB90-4942-8B65-D79C6578DDF2}"
